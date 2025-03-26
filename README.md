@@ -12,3 +12,4 @@ Modules:
 - Quantum Computing
 - Scheduling and Resource Allocation
 - Finance and Financial Management
+- Advanced Computer Graphics
